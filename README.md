@@ -24,6 +24,12 @@ A web-based real-time chat application built using Django. Users can send and re
 
 
 ---
+---
+
+## Screenshot
+images/chatapp.png
+
+
 
 ## ⚙️ Installation & Setup
 
